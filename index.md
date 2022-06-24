@@ -14,7 +14,7 @@ Julia code for the Hilbert curve
 
 # Data Science
 
-## [Topological Data Analysis for Time Series Forecasting] (./https://github.com/NathanKosoi/Proyecto_TDA)
+## [Topological Data Analysis for Time Series Forecasting](./https://github.com/NathanKosoi/Proyecto_TDA)
 
 Implementation of the [Giotto-TDA](./https://giotto-ai.github.io/gtda-docs/0.5.1/library.html) library to analyse the topological properties of financial time series.
 
