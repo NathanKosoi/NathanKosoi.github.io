@@ -8,15 +8,15 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 With these projects I mainly focus on developing a computational way to visualize some abstract mathematical knowledge.
 
-## [Hilbert curve](/https://github.com/NathanKosoi/Hilbert-Curve)
+## [Hilbert curve](https://github.com/NathanKosoi/Hilbert-Curve)
 
 Julia code for the Hilbert curve
 
 # Data Science
 
-## [Topological Data Analysis for Time Series Forecasting] (/https://github.com/NathanKosoi/Proyecto_TDA)
+## [Topological Data Analysis for Time Series Forecasting](https://github.com/NathanKosoi/Proyecto_TDA)
 
-Implementation of the [Giotto-TDA](/https://giotto-ai.github.io/gtda-docs/0.5.1/library.html) library to analyse the topological properties of financial time series.
+Implementation of the [Giotto-TDA](https://giotto-ai.github.io/gtda-docs/0.5.1/library.html) library to analyse the topological properties of financial time series.
 
 > This is a blockquote following a header.
 >
