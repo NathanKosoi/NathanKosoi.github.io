@@ -18,6 +18,11 @@ Julia code for the Hilbert curve
 
 Implementation of the [Giotto-TDA](https://giotto-ai.github.io/gtda-docs/0.5.1/library.html) library to analyse the topological properties of financial time series.
 
+# Books I've completed
+
+*   []()
+*   []()
+
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
